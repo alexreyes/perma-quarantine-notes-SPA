@@ -1,4 +1,4 @@
-# Permanent quarantine notes
+# Quarantine notes hosted permanently on the blockchain!
 
 This is the single page version of quarantine notes. This web app was built for the [Open Web Hackathon](https://gitcoin.co/issue/ArweaveTeam/Bounties/1/2929) hosted by arweave. Quarantine notes uses Svelte as its front end framework.
 
