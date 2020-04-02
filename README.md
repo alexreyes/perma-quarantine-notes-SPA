@@ -1,4 +1,6 @@
-# Quarantine notes hosted permanently on the blockchain!
+# Permanent Quarantine notes
+
+Quarantine notes is a web app for people to permanently store notes from a historic time onto arweave's permanent blockchain! With arweave, permanent really means *forever*. 
 
 This is the single page version of quarantine notes. This web app was built for the [Open Web Hackathon](https://gitcoin.co/issue/ArweaveTeam/Bounties/1/2929) hosted by arweave. Quarantine notes uses Svelte as its front end framework.
 
