@@ -1,3 +1,5 @@
+# Note: This is the blockchain version of quarantine notes. The web2.0 version (with arweave) is [here](https://github.com/alexreyes/perma-quarantine-notes-web). All new development will be done there
+
 # Permanent Quarantine notes
 
 Quarantine notes is a web app for people to permanently store notes from a historic time onto arweave's permanent blockchain! With arweave, permanent really means *forever*. 
